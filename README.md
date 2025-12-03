@@ -18,15 +18,15 @@ Statements about me:
 - I tolerate and use LLMs
 
 Things ive done (newest to oldest):
-- (Wrote a LISP in C and rewrote it in Rust)[https://github.com/JakobSachs/jlisp]
-- (Wrote a simplified SIMT/Vector-Processor emulated in Rust)[https://github.com/JakobSachs/toySIMT]
-- (Wrote a oversimplified RISC-V emulator in Zig)[https://github.com/JakobSachs/riscv-em]
-- (Wrote a very bad C compiler)[https://github.com/JakobSachs/c-compiler]
-- (Built a Go-AI based roughly on AlphaGo architecture)[https://github.com/JakobSachs/gonet]
-- (Wrote a simple kv-store (like redis) in Go)[https://github.com/JakobSachs/kvStore]
-- (Wrote a  mnist classifier from (mostly) scractch in C/C++)[https://github.com/JakobSachs/simple_mnist_cpp]
-- (Contributed a tiny fix to typst)[https://github.com/typst/typst/pull/2742]
-- (Wrote a broken Chess-Anaylsis tool using Stockfish in Rust)[https://github.com/JakobSachs/chess_view]
-- (Wrote a simple chess game in Rust using SDL2)[https://github.com/JakobSachs/rustChess]
-- (Wrote a huffman-compression-utility in Haskell)[https://github.com/JakobSachs/HaskManComp]
-- Rewrote (tree)[https://github.com/JakobSachs/gotree] in Go and (ls)[https://github.com/JakobSachs/sunday-ls] in C
+- [Wrote a LISP in C and rewrote it in Rust](https://github.com/JakobSachs/jlisp)
+- [Wrote a simplified SIMT/Vector-Processor emulated in Rust](https://github.com/JakobSachs/toySIMT)
+- [Wrote a oversimplified RISC-V emulator in Zig](https://github.com/JakobSachs/riscv-em)
+- [Wrote a very bad C compiler](https://github.com/JakobSachs/c-compiler)
+- [Built a Go-AI based roughly on AlphaGo architecture](https://github.com/JakobSachs/gonet)
+- [Wrote a simple kv-store service in Go](https://github.com/JakobSachs/kvStore)
+- [Wrote a  mnist classifier from (mostly) scractch in C/C++](https://github.com/JakobSachs/simple_mnist_cpp)
+- [Contributed a tiny fix to typst](https://github.com/typst/typst/pull/2742)
+- [Wrote a broken Chess-Anaylsis tool using Stockfish in Rust](https://github.com/JakobSachs/chess_view)
+- [Wrote a simple chess game in Rust using SDL2](https://github.com/JakobSachs/rustChess)
+- [Wrote a huffman-compression-utility in Haskell](https://github.com/JakobSachs/HaskManComp)
+- Rewrote [tree](https://github.com/JakobSachs/gotree) in Go and [ls](https://github.com/JakobSachs/sunday-ls) in C
