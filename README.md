@@ -11,17 +11,11 @@
   - Languages i would like to learn: Clojure/LISP, Ocaml, F#, APL
   - Work mostly in Python, with a mix of C/C++ and Rust depending on the project
 
-- Started coding around 2015 trying to make Minecraft mods in Java (but never got past very basic stuff)
+- Started coding around 2015 trying to make Minecraft mods in Java
 
 - Currently working on my masters-thesis on modern GPGPU architectures
 
 - Before that did a mixed bachelors in Computer Science and Physics
-
-Statements about me:
-
-- I enjoy computers, math and physical sciences
-- I dable in Machine Learning/Deep Learning
-- I tolerate and use LLMs, i dont like their code quality
 
 Things i've done in my freetime (newest to oldest):
 
@@ -32,8 +26,8 @@ Things i've done in my freetime (newest to oldest):
 - [Built a Go-AI based roughly on AlphaGo architecture](https://github.com/JakobSachs/gonet)
 - [Wrote a simple kv-store service in Go](https://github.com/JakobSachs/kvStore)
 - [Wrote a MNIST classifier from (mostly) scractch in C/C++](https://github.com/JakobSachs/simple_mnist_cpp)
-- [Contributed a tiny fix to typst](https://github.com/typst/typst/pull/2742)
 - [Wrote a broken Chess-Anaylsis tool using Stockfish in Rust](https://github.com/JakobSachs/chess_view)
 - [Wrote a simple chess game in Rust using SDL2](https://github.com/JakobSachs/rustChess)
 - [Wrote a huffman-compression-utility in Haskell](https://github.com/JakobSachs/HaskManComp)
 - Rewrote [tree](https://github.com/JakobSachs/gotree) in Go and [ls](https://github.com/JakobSachs/sunday-ls) in C
+- Sometimes contribute to open-source projects i like 
